@@ -1,0 +1,28 @@
+.c{
+    width: 242px;
+    height: 105px;
+    border: 2px green double;
+}
+.c1{
+    background-color: chartreuse;
+    margin-top: 2px;
+    margin-left:161px;
+}
+.c2{
+    background-color: deeppink;
+    margin-top: -106px;
+    margin-left: 443px;
+}
+h1{
+    color: crimson;
+}
+span{
+    color: darkviolet;
+}
+#d2{
+    color: green;
+
+}
+
+body{
+    background-image:url("./")
